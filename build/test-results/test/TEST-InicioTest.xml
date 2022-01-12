@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InicioTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-01-12T19:51:55" hostname="DESKTOP-DRGU0J3" time="0.559">
+  <properties/>
+  <testcase name="testTabuada()" classname="InicioTest" time="0.522"/>
+  <testcase name="testSoma()" classname="InicioTest" time="0.03"/>
+  <testcase name="testNumeroMaior()" classname="InicioTest" time="0.003"/>
+  <system-out><![CDATA[--------- Exercicio Somando Numeros ---------Digite dois numeros: Num 1:Num 2:--------- Exercicio do Maior Numero ---------Digite dois numeros: Num 1: Num 2: ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
